@@ -38,6 +38,7 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 > pkg install ffmpeg
 > pkg install nodejs
 > pkg install npm
+> pkg install tesseract
 ```
 Lalu clone repo
 ```bash
