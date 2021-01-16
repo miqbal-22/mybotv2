@@ -51,7 +51,7 @@ Lanjutkan dengan
 ```
 Jika mengalami error, lakukan perintah manual berikut :
 ```bash
-> pkg install tesseract
+
 > npm i -g cwebp
 > npm i -g ytdl
 > npm i node-tesseract-ocr
